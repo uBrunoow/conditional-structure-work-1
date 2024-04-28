@@ -34,21 +34,7 @@ Ano:
 
 > Resultado do código:
 
-```A seguir, digite uma data do calendario Gregoriano para saber seu respectivo dia da semana. 
-
-Dia: 22
-
-Mes: 04
-
-Ano: 2024
-
-A data 22/4/2024 cai em uma Segunda-feira(Monday)
-
-Quer tentar novamente?(sim/nao)
-nao
-Desenvolvedor do Programa: Bruno Werner
-
-aupi in 
+```
 $ Resultado do código: 
 
 -> 
