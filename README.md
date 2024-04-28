@@ -9,6 +9,7 @@ O algoritmo deve validar a entrada, sendo que o dia deve estar entre 1 e 31, o m
 entre 1 e 12 e o ano entre 1800 e 2199.
 
 #### Tecnologias Utilizadas:
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 ### Como rodar:
 
